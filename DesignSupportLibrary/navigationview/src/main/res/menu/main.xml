@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/p1"
+            android:title="CC Talk"/>
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/p2"
+            android:title="HJ Class"/>
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/p3"
+            android:title="Words"/>
+        <item
+            android:id="@+id/nav_discussion"
+            android:icon="@drawable/p4"
+            android:title="Big HJ"/>
+    </group>
+
+    <item android:title="Version">
+        <menu>
+            <item
+                android:icon="@drawable/p5"
+                android:title="Android"/>
+            <item
+                android:icon="@drawable/p6"
+                android:title="iOS"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignSupportLibrary.iml" filepath="$PROJECT_DIR$/DesignSupportLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabLayout/TabLayout.iml" filepath="$PROJECT_DIR$/TabLayout/TabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextInputlayout/TextInputlayout.iml" filepath="$PROJECT_DIR$/TextInputlayout/TextInputlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appbarlayout/appbarlayout.iml" filepath="$PROJECT_DIR$/appbarlayout/appbarlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" filepath="$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingactionbutton/floatingactionbutton.iml" filepath="$PROJECT_DIR$/floatingactionbutton/floatingactionbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationview/navigationview.iml" filepath="$PROJECT_DIR$/navigationview/navigationview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbar/snackbar.iml" filepath="$PROJECT_DIR$/snackbar/snackbar.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':TabLayout', ':snackbar', ':TextInputlayout', ':floatingactionbutton', ':navigationview', ':appbarlayout', ':coordinatorlayout'
