@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    声明属性的取值类型
+    -->
+    <attr name="titleText" format="string"/>
+    <attr name="titleTextColor" format="color"/>
+    <attr name="titleTextSize" format="dimension"/>
+     <!--
+     声明控件的属性
+     -->
+    <declare-styleable name="CustomTextView">
+        <attr name="titleText"/>
+        <attr name="titleTextColor"/>
+        <attr name="titleTextSize"/>
+    </declare-styleable>
+</resources>
