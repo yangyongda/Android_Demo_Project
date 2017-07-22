@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetworkDemo</string>
+    <string name="networkStatus">检查网络状态</string>
+    <string name="scanwifi">扫描周围Wifi</string>
+    <string name="openWifi">打开WIFI</string>
+    <string name="closewifi">关闭WIFI</string>
+</resources>
